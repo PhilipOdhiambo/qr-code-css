@@ -14,7 +14,7 @@ The project seems small but it takes a lot to pull together:
 
 ## Live preview
 Here is the link to live preview just like in the image
-- [Live preview]()
+- [Live preview](https://philipodhiambo.github.io/qr-code-css)
 
   
   <p style="text-align: center;">Copyright Philip Owino &copy; 2022.</p>
